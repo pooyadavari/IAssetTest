@@ -1,0 +1,140 @@
+C:\iasset\IassetBackend\IassetBackend\bin\ApplicationInsights.config
+C:\iasset\IassetBackend\IassetBackend\bin\roslyn\csc.exe
+C:\iasset\IassetBackend\IassetBackend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\iasset\IassetBackend\IassetBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\iasset\IassetBackend\IassetBackend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\iasset\IassetBackend\IassetBackend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\iasset\IassetBackend\IassetBackend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\iasset\IassetBackend\IassetBackend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\iasset\IassetBackend\IassetBackend\bin\roslyn\System.Collections.Immutable.dll
+C:\iasset\IassetBackend\IassetBackend\bin\roslyn\System.Reflection.Metadata.dll
+C:\iasset\IassetBackend\IassetBackend\bin\roslyn\vbc.exe
+C:\iasset\IassetBackend\IassetBackend\bin\roslyn\VBCSCompiler.exe
+C:\iasset\IassetBackend\IassetBackend\bin\roslyn\VBCSCompiler.exe.config
+C:\iasset\IassetBackend\IassetBackend\bin\IassetBackend.dll.config
+C:\iasset\IassetBackend\IassetBackend\bin\IassetBackend.dll
+C:\iasset\IassetBackend\IassetBackend\bin\IassetBackend.pdb
+C:\iasset\IassetBackend\IassetBackend\bin\Antlr3.Runtime.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.AI.Agent.Intercept.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.AI.DependencyCollector.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.AI.Web.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.AI.WindowsServer.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.ApplicationInsights.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.Web.Infrastructure.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Newtonsoft.Json.dll
+C:\iasset\IassetBackend\IassetBackend\bin\System.Net.Http.Formatting.dll
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Helpers.dll
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Http.dll
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Http.WebHost.dll
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Mvc.dll
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Optimization.dll
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Razor.dll
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.WebPages.Deployment.dll
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.WebPages.dll
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.WebPages.Razor.dll
+C:\iasset\IassetBackend\IassetBackend\bin\WebGrease.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.AI.DependencyCollector.xml
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.AI.Web.xml
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.AI.WindowsServer.xml
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.ApplicationInsights.xml
+C:\iasset\IassetBackend\IassetBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\iasset\IassetBackend\IassetBackend\bin\Newtonsoft.Json.xml
+C:\iasset\IassetBackend\IassetBackend\bin\System.Net.Http.Formatting.xml
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Helpers.xml
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Http.xml
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Http.WebHost.xml
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Mvc.xml
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Optimization.xml
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Razor.xml
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.WebPages.xml
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.WebPages.Deployment.xml
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.WebPages.Razor.xml
+C:\iasset\IassetBackend\IassetBackend\bin\Antlr3.Runtime.pdb
+C:\iasset\IassetBackend\IassetBackend\obj\Debug\IassetBackend.csprojResolveAssemblyReference.cache
+C:\iasset\IassetBackend\IassetBackend\obj\Debug\IassetBackend.dll
+C:\iasset\IassetBackend\IassetBackend\obj\Debug\IassetBackend.pdb
+C:\iasset\IassetBackend\IassetBackend\bin\IassetBackend.Data.dll
+C:\iasset\IassetBackend\IassetBackend\bin\IassetBackend.Data.pdb
+C:\iasset\IassetBackend\IassetBackend\bin\Autofac.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Autofac.Integration.WebApi.dll
+C:\iasset\IassetBackend\IassetBackend\bin\Autofac.xml
+C:\iasset\IassetBackend\IassetBackend\bin\Autofac.Integration.WebApi.xml
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Cors.dll
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Http.Cors.dll
+C:\iasset\IassetBackend\IassetBackend\bin\System.Web.Http.Cors.xml
+C:\iasset\IassetBackend\IassetBackend\bin\AutoMapper.dll
+C:\iasset\IassetBackend\IassetBackend\bin\AutoMapper.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\ApplicationInsights.config
+C:\iasset main\IassetBackend\IassetBackend\bin\roslyn\csc.exe
+C:\iasset main\IassetBackend\IassetBackend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\iasset main\IassetBackend\IassetBackend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\iasset main\IassetBackend\IassetBackend\bin\roslyn\System.Collections.Immutable.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\roslyn\System.Reflection.Metadata.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\roslyn\vbc.exe
+C:\iasset main\IassetBackend\IassetBackend\bin\roslyn\VBCSCompiler.exe
+C:\iasset main\IassetBackend\IassetBackend\bin\roslyn\VBCSCompiler.exe.config
+C:\iasset main\IassetBackend\IassetBackend\bin\IassetBackend.dll.config
+C:\iasset main\IassetBackend\IassetBackend\bin\IassetBackend.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\IassetBackend.pdb
+C:\iasset main\IassetBackend\IassetBackend\bin\Antlr3.Runtime.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\Autofac.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\Autofac.Integration.WebApi.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\AutoMapper.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\IassetBackend.Data.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.AI.Agent.Intercept.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.AI.DependencyCollector.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.AI.Web.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.AI.WindowsServer.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.ApplicationInsights.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.Web.Infrastructure.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\Newtonsoft.Json.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Net.Http.Formatting.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Cors.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Helpers.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Http.Cors.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Http.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Http.WebHost.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Mvc.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Optimization.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Razor.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.WebPages.Deployment.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.WebPages.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.WebPages.Razor.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\WebGrease.dll
+C:\iasset main\IassetBackend\IassetBackend\bin\IassetBackend.Data.pdb
+C:\iasset main\IassetBackend\IassetBackend\bin\Autofac.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\Autofac.Integration.WebApi.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\AutoMapper.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.AI.DependencyCollector.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.AI.Web.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.AI.WindowsServer.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.ApplicationInsights.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Http.Cors.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\Newtonsoft.Json.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Net.Http.Formatting.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Helpers.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Http.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Http.WebHost.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Mvc.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Optimization.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.Razor.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.WebPages.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.WebPages.Deployment.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\System.Web.WebPages.Razor.xml
+C:\iasset main\IassetBackend\IassetBackend\bin\Antlr3.Runtime.pdb
+C:\iasset main\IassetBackend\IassetBackend\obj\Debug\IassetBackend.csprojResolveAssemblyReference.cache
+C:\iasset main\IassetBackend\IassetBackend\obj\Debug\IassetBackend.dll
+C:\iasset main\IassetBackend\IassetBackend\obj\Debug\IassetBackend.pdb

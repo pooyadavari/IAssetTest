@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IassetBackend", "IassetBackend\IassetBackend.csproj", "{8745FF0F-7CE8-4490-998B-53F3E86E29AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IassetBackend.Tests", "IassetBackend.Tests\IassetBackend.Tests.csproj", "{7A4F7E20-ADFD-4152-ADD8-96CC579B22DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IassetBackend.Data", "IassetBackend.Data\IassetBackend.Data.csproj", "{CA2514F6-7E23-4A50-A35E-31E0F093F0A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8745FF0F-7CE8-4490-998B-53F3E86E29AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8745FF0F-7CE8-4490-998B-53F3E86E29AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8745FF0F-7CE8-4490-998B-53F3E86E29AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8745FF0F-7CE8-4490-998B-53F3E86E29AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4F7E20-ADFD-4152-ADD8-96CC579B22DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4F7E20-ADFD-4152-ADD8-96CC579B22DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4F7E20-ADFD-4152-ADD8-96CC579B22DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4F7E20-ADFD-4152-ADD8-96CC579B22DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2514F6-7E23-4A50-A35E-31E0F093F0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2514F6-7E23-4A50-A35E-31E0F093F0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2514F6-7E23-4A50-A35E-31E0F093F0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2514F6-7E23-4A50-A35E-31E0F093F0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+C:\iasset\IassetBackend.Data\bin\Debug\IassetBackend.Data.dll.config
+C:\iasset\IassetBackend.Data\bin\Debug\IassetBackend.Data.dll
+C:\iasset\IassetBackend.Data\bin\Debug\IassetBackend.Data.pdb
+C:\iasset\IassetBackend.Data\obj\Debug\IassetBackend.Data.dll
+C:\iasset\IassetBackend.Data\obj\Debug\IassetBackend.Data.pdb
+C:\iasset\IassetBackend.Data\bin\Debug\AutoMapper.dll
+C:\iasset\IassetBackend.Data\bin\Debug\AutoMapper.xml
+C:\iasset\IassetBackend.Data\obj\Debug\IassetBackend.Data.csprojResolveAssemblyReference.cache
+C:\iasset\IassetBackend\IassetBackend.Data\bin\Debug\IassetBackend.Data.dll.config
+C:\iasset\IassetBackend\IassetBackend.Data\bin\Debug\IassetBackend.Data.dll
+C:\iasset\IassetBackend\IassetBackend.Data\bin\Debug\IassetBackend.Data.pdb
+C:\iasset\IassetBackend\IassetBackend.Data\bin\Debug\AutoMapper.xml
+C:\iasset\IassetBackend\IassetBackend.Data\obj\Debug\IassetBackend.Data.csprojResolveAssemblyReference.cache
+C:\iasset\IassetBackend\IassetBackend.Data\obj\Debug\IassetBackend.Data.dll
+C:\iasset\IassetBackend\IassetBackend.Data\obj\Debug\IassetBackend.Data.pdb
+C:\iasset main\IassetBackend\IassetBackend.Data\bin\Debug\IassetBackend.Data.dll.config
+C:\iasset main\IassetBackend\IassetBackend.Data\bin\Debug\IassetBackend.Data.dll
+C:\iasset main\IassetBackend\IassetBackend.Data\bin\Debug\IassetBackend.Data.pdb
+C:\iasset main\IassetBackend\IassetBackend.Data\obj\Debug\IassetBackend.Data.csprojResolveAssemblyReference.cache
+C:\iasset main\IassetBackend\IassetBackend.Data\obj\Debug\IassetBackend.Data.dll
+C:\iasset main\IassetBackend\IassetBackend.Data\obj\Debug\IassetBackend.Data.pdb
